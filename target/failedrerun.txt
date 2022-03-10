@@ -1,0 +1,2 @@
+file:src/test/resources/parallel/MyAddresses.feature:14
+file:src/test/resources/parallel/LoginPage.feature:9
